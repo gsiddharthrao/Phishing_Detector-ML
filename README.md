@@ -11,18 +11,9 @@
 3. [Key Features](#key-features)  
 4. [Technologies Used](#technologies-used)  
 5. [Quick Start](#quick-start)  
-6. [Installation](#installation)  
-7. [Usage](#usage)  
-8. [API Endpoints](#api-endpoints)  
-9. [Command Line Usage](#command-line-usage)  
-10. [Model Details](#model-details)  
-11. [Explainability Showcase](#explainability-showcase)  
-12. [Deployment](#deployment)  
-13. [Screenshots](#screenshots)  
-14. [Contributing](#contributing)  
-15. [Business Model for Launch & Growth](#business-model-for-launch--growth)  
-16. [Key Differentiating Features](#key-differentiating-features)
-
+6. [Deployment](#deployment)  
+7. [Screenshots](#screenshots)  
+8. [Contributing](#contributing) 
 ---
 
 ## 🧩 **Project Overview**
