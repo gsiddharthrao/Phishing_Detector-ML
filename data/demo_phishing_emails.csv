@@ -1,377 +1,17 @@
 text,label
-"From: billing@services.net
-To: user@example.com
-Subject: Invoice
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Invoice attached for services rendered last month.",0
-"From: hr@company.com
-To: user@example.com
-Subject: Birthday
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Happy birthday! Hope you have a great day.",0
-"From: hr@company.com
-To: user@example.com
-Subject: Invoice
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Happy birthday! Hope you have a great day.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Report
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Thank you for your recent purchase. Your order has shipped.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Birthday
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Project update: The deadline has been extended to next Friday.",0
-"From: alert@secure-login.org
-To: user@example.com
-Subject: Suspicious Activity
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Congratulations! You've won a prize. Claim it now: http://prize-claim.org",1
-"From: team@project.org
-To: user@example.com
-Subject: Invoice
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-System maintenance scheduled for this weekend.",0
-"From: billing@services.net
-To: user@example.com
-Subject: Report
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Happy birthday! Hope you have a great day.",0
-"From: security@account-verify.net
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Congratulations! You've won a prize. Claim it now: http://password-reset.info",1
-"From: security@account-verify.net
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Bank Alert: Suspicious transaction. Confirm details: http://password-reset.info",1
-"From: billing@services.net
-To: user@example.com
-Subject: Update
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-New employee onboarding session next Tuesday.",0
-"From: hr@company.com
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Thank you for your recent purchase. Your order has shipped.",0
-"From: newsletter@updates.com
-To: user@example.com
-Subject: Report
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Meeting reminder: Team standup at 10 AM tomorrow.",0
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Important: Update your payment information: http://password-reset.info",1
-"From: admin@internal.biz
-To: user@example.com
-Subject: Birthday
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Weekly newsletter: Latest updates from our department.",0
-"From: hr@company.com
-To: user@example.com
-Subject: Report
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Project update: The deadline has been extended to next Friday.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Invoice
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Project update: The deadline has been extended to next Friday.",0
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Security Alert: Unusual activity detected. Verify your account: http://shipping-update.biz",1
-"From: security@account-verify.net
-To: user@example.com
-Subject: Security Alert
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Verify your email address: http://password-reset.info",1
-"From: team@project.org
-To: user@example.com
-Subject: Update
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Project update: The deadline has been extended to next Friday.",0
-"From: support@bank-alert.com
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Security Alert: Unusual activity detected. Verify your account: http://shipping-update.biz",1
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Password Reset
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Your subscription is expiring. Renew now: http://secure-bank-login.com",1
 "From: newsletter@updates.com
 To: user@example.com
 Subject: Update
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Meeting reminder: Team standup at 10 AM tomorrow.",0
-"From: team@project.org
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-System maintenance scheduled for this weekend.",0
-"From: billing@services.net
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Quarterly report attached for your review.",0
-"From: billing@services.net
-To: user@example.com
-Subject: Birthday
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-System maintenance scheduled for this weekend.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Project update: The deadline has been extended to next Friday.",0
-"From: newsletter@updates.com
-To: user@example.com
-Subject: Report
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
 Vacation request approved. Enjoy your time off!",0
-"From: alert@secure-login.org
-To: user@example.com
-Subject: Password Reset
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Congratulations! You've won a prize. Claim it now: http://prize-claim.org",1
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Suspicious Activity
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-You've been selected for a special offer. Act now: http://prize-claim.org",1
-"From: hr@company.com
+"From: admin@internal.biz
 To: user@example.com
 Subject: Update
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-New employee onboarding session next Tuesday.",0
-"From: admin@password-reset.info
-To: user@example.com
-Subject: Suspicious Activity
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Important: Update your payment information: http://account-verify.net",1
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Security Alert
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Your subscription is expiring. Renew now: http://password-reset.info",1
-"From: alert@secure-login.org
-To: user@example.com
-Subject: Suspicious Activity
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-You've been selected for a special offer. Act now: http://password-reset.info",1
-"From: newsletter@updates.com
-To: user@example.com
-Subject: Report
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
 Quarterly report attached for your review.",0
 "From: support@bank-alert.com
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-You've been selected for a special offer. Act now: http://secure-bank-login.com",1
-"From: admin@password-reset.info
-To: user@example.com
-Subject: Password Reset
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Congratulations! You've won a prize. Claim it now: http://secure-bank-login.com",1
-"From: admin@internal.biz
-To: user@example.com
-Subject: Update
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Weekly newsletter: Latest updates from our department.",0
-"From: security@account-verify.net
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Verify your email address: http://password-reset.info",1
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Verify your email address: http://account-verify.net",1
-"From: admin@password-reset.info
-To: user@example.com
-Subject: Password Reset
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Important: Update your payment information: http://secure-bank-login.com",1
-"From: support@bank-alert.com
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Bank Alert: Suspicious transaction. Confirm details: http://prize-claim.org",1
-"From: hr@company.com
-To: user@example.com
-Subject: Birthday
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Thank you for your recent purchase. Your order has shipped.",0
-"From: support@bank-alert.com
-To: user@example.com
-Subject: Password Reset
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-You've been selected for a special offer. Act now: http://secure-bank-login.com",1
-"From: team@project.org
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-System maintenance scheduled for this weekend.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Birthday
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Meeting reminder: Team standup at 10 AM tomorrow.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Weekly newsletter: Latest updates from our department.",0
-"From: hr@company.com
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Thank you for your recent purchase. Your order has shipped.",0
-"From: newsletter@updates.com
-To: user@example.com
-Subject: Update
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-New employee onboarding session next Tuesday.",0
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Suspicious Activity
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Important: Update your payment information: http://prize-claim.org",1
-"From: support@bank-alert.com
-To: user@example.com
-Subject: Security Alert
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Verify your email address: http://password-reset.info",1
-"From: support@bank-alert.com
-To: user@example.com
-Subject: Suspicious Activity
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Security Alert: Unusual activity detected. Verify your account: http://password-reset.info",1
-"From: security@account-verify.net
-To: user@example.com
-Subject: Security Alert
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Your package is delayed. Update shipping info: http://prize-claim.org",1
-"From: admin@internal.biz
-To: user@example.com
-Subject: Invoice
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-New employee onboarding session next Tuesday.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Birthday
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Quarterly report attached for your review.",0
-"From: security@account-verify.net
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Your package is delayed. Update shipping info: http://account-verify.net",1
-"From: security@account-verify.net
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Important: Update your payment information: http://shipping-update.biz",1
-"From: billing@services.net
-To: user@example.com
-Subject: Update
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Thank you for your recent purchase. Your order has shipped.",0
-"From: admin@internal.biz
-To: user@example.com
-Subject: Invoice
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-New employee onboarding session next Tuesday.",0
-"From: support@bank-alert.com
-To: user@example.com
-Subject: Password Reset
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Password reset required. Click the link: http://password-reset.info",1
-"From: billing@services.net
-To: user@example.com
-Subject: Meeting Reminder
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Happy birthday! Hope you have a great day.",0
-"From: admin@password-reset.info
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-You've been selected for a special offer. Act now: http://secure-bank-login.com",1
-"From: security@account-verify.net
 To: user@example.com
 Subject: Urgent Action Needed
 Date: Mon, 13 Sep 2025 09:33:00 -0700
@@ -379,29 +19,95 @@ Date: Mon, 13 Sep 2025 09:33:00 -0700
 Urgent: Your account has been compromised. Click here to reset your password: http://shipping-update.biz",1
 "From: billing@services.net
 To: user@example.com
-Subject: Update
+Subject: Report
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
 Meeting reminder: Team standup at 10 AM tomorrow.",0
-"From: noreply@prize-claim.biz
+"From: alert@secure-login.org
 To: user@example.com
 Subject: Urgent Action Needed
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Bank Alert: Suspicious transaction. Confirm details: http://password-reset.info",1
+Urgent: Your account has been compromised. Click here to reset your password: http://password-reset.info",1
+"From: support@bank-alert.com
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your package is delayed. Update shipping info: http://shipping-update.biz",1
+"From: team@project.org
+To: user@example.com
+Subject: Invoice
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+System maintenance scheduled for this weekend.",0
 "From: hr@company.com
+To: user@example.com
+Subject: Report
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Meeting reminder: Team standup at 10 AM tomorrow.",0
+"From: admin@internal.biz
 To: user@example.com
 Subject: Birthday
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Meeting reminder: Team standup at 10 AM tomorrow.",0
-"From: support@bank-alert.com
+Weekly newsletter: Latest updates from our department.",0
+"From: team@project.org
 To: user@example.com
-Subject: Password Reset
+Subject: Birthday
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Password reset required. Click the link: http://account-verify.net",1
-"From: hr@company.com
+Invoice attached for services rendered last month.",0
+"From: security@account-verify.net
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+You've been selected for a special offer. Act now: http://prize-claim.org",1
+"From: support@bank-alert.com
+To: user@example.com
+Subject: Account Verification Required
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your subscription is expiring. Renew now: http://account-verify.net",1
+"From: alert@secure-login.org
+To: user@example.com
+Subject: Security Alert
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Security Alert: Unusual activity detected. Verify your account: http://shipping-update.biz",1
+"From: team@project.org
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Meeting reminder: Team standup at 10 AM tomorrow.",0
+"From: admin@internal.biz
+To: user@example.com
+Subject: Invoice
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+New employee onboarding session next Tuesday.",0
+"From: billing@services.net
+To: user@example.com
+Subject: Meeting Reminder
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Project update: The deadline has been extended to next Friday.",0
+"From: admin@internal.biz
+To: user@example.com
+Subject: Invoice
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Happy birthday! Hope you have a great day.",0
+"From: security@account-verify.net
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your subscription is expiring. Renew now: http://prize-claim.org",1
+"From: newsletter@updates.com
 To: user@example.com
 Subject: Invoice
 Date: Mon, 13 Sep 2025 09:33:00 -0700
@@ -409,52 +115,22 @@ Date: Mon, 13 Sep 2025 09:33:00 -0700
 Meeting reminder: Team standup at 10 AM tomorrow.",0
 "From: admin@internal.biz
 To: user@example.com
-Subject: Meeting Reminder
+Subject: Report
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Quarterly report attached for your review.",0
-"From: alert@secure-login.org
+New employee onboarding session next Tuesday.",0
+"From: billing@services.net
 To: user@example.com
-Subject: Security Alert
+Subject: Birthday
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Weekly newsletter: Latest updates from our department.",0
+"From: noreply@prize-claim.biz
+To: user@example.com
+Subject: Urgent Action Needed
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
 You've been selected for a special offer. Act now: http://prize-claim.org",1
-"From: security@account-verify.net
-To: user@example.com
-Subject: Password Reset
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Bank Alert: Suspicious transaction. Confirm details: http://prize-claim.org",1
-"From: noreply@prize-claim.biz
-To: user@example.com
-Subject: Security Alert
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Your package is delayed. Update shipping info: http://password-reset.info",1
-"From: security@account-verify.net
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Your subscription is expiring. Renew now: http://secure-bank-login.com",1
-"From: admin@password-reset.info
-To: user@example.com
-Subject: Urgent Action Needed
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Security Alert: Unusual activity detected. Verify your account: http://password-reset.info",1
-"From: alert@secure-login.org
-To: user@example.com
-Subject: Security Alert
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-You've been selected for a special offer. Act now: http://account-verify.net",1
-"From: alert@secure-login.org
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Important: Update your payment information: http://password-reset.info",1
 "From: newsletter@updates.com
 To: user@example.com
 Subject: Meeting Reminder
@@ -463,139 +139,463 @@ Date: Mon, 13 Sep 2025 09:33:00 -0700
 Invoice attached for services rendered last month.",0
 "From: admin@password-reset.info
 To: user@example.com
-Subject: Suspicious Activity
+Subject: Security Alert
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Bank Alert: Suspicious transaction. Confirm details: http://account-verify.net",1
+Security Alert: Unusual activity detected. Verify your account: http://password-reset.info",1
+"From: billing@services.net
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Weekly newsletter: Latest updates from our department.",0
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Birthday
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Quarterly report attached for your review.",0
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Vacation request approved. Enjoy your time off!",0
 "From: security@account-verify.net
+To: user@example.com
+Subject: Account Verification Required
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Verify your email address: http://shipping-update.biz",1
+"From: admin@password-reset.info
 To: user@example.com
 Subject: Urgent Action Needed
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Your package is delayed. Update shipping info: http://secure-bank-login.com",1
+Urgent: Your account has been compromised. Click here to reset your password: http://secure-bank-login.com",1
+"From: hr@company.com
+To: user@example.com
+Subject: Birthday
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Invoice attached for services rendered last month.",0
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Invoice
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Thank you for your recent purchase. Your order has shipped.",0
+"From: security@account-verify.net
+To: user@example.com
+Subject: Suspicious Activity
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Security Alert: Unusual activity detected. Verify your account: http://password-reset.info",1
+"From: noreply@prize-claim.biz
+To: user@example.com
+Subject: Password Reset
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your package is delayed. Update shipping info: http://prize-claim.org",1
+"From: noreply@prize-claim.biz
+To: user@example.com
+Subject: Password Reset
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+You've been selected for a special offer. Act now: http://shipping-update.biz",1
 "From: team@project.org
 To: user@example.com
 Subject: Report
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Project update: The deadline has been extended to next Friday.",0
-"From: hr@company.com
+New employee onboarding session next Tuesday.",0
+"From: admin@internal.biz
 To: user@example.com
 Subject: Meeting Reminder
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Invoice attached for services rendered last month.",0
+System maintenance scheduled for this weekend.",0
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Project update: The deadline has been extended to next Friday.",0
 "From: team@project.org
 To: user@example.com
 Subject: Invoice
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Meeting reminder: Team standup at 10 AM tomorrow.",0
+Vacation request approved. Enjoy your time off!",0
+"From: alert@secure-login.org
+To: user@example.com
+Subject: Suspicious Activity
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Bank Alert: Suspicious transaction. Confirm details: http://shipping-update.biz",1
+"From: team@project.org
+To: user@example.com
+Subject: Meeting Reminder
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Happy birthday! Hope you have a great day.",0
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Password Reset
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Important: Update your payment information: http://prize-claim.org",1
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Congratulations! You've won a prize. Claim it now: http://prize-claim.org",1
+"From: admin@internal.biz
+To: user@example.com
+Subject: Birthday
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Quarterly report attached for your review.",0
+"From: security@account-verify.net
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Congratulations! You've won a prize. Claim it now: http://password-reset.info",1
 "From: hr@company.com
 To: user@example.com
 Subject: Update
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Invoice attached for services rendered last month.",0
+Meeting reminder: Team standup at 10 AM tomorrow.",0
+"From: security@account-verify.net
+To: user@example.com
+Subject: Account Verification Required
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Congratulations! You've won a prize. Claim it now: http://secure-bank-login.com",1
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Suspicious Activity
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Urgent: Your account has been compromised. Click here to reset your password: http://shipping-update.biz",1
+"From: alert@secure-login.org
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your package is delayed. Update shipping info: http://account-verify.net",1
+"From: admin@internal.biz
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+System maintenance scheduled for this weekend.",0
 "From: hr@company.com
 To: user@example.com
 Subject: Birthday
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
 Weekly newsletter: Latest updates from our department.",0
-"From: support@bank-alert.com
+"From: security@account-verify.net
 To: user@example.com
 Subject: Password Reset
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-You've been selected for a special offer. Act now: http://account-verify.net",1
+You've been selected for a special offer. Act now: http://prize-claim.org",1
+"From: security@account-verify.net
+To: user@example.com
+Subject: Account Verification Required
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Urgent: Your account has been compromised. Click here to reset your password: http://password-reset.info",1
+"From: hr@company.com
+To: user@example.com
+Subject: Meeting Reminder
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Meeting reminder: Team standup at 10 AM tomorrow.",0
 "From: security@account-verify.net
 To: user@example.com
 Subject: Suspicious Activity
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Bank Alert: Suspicious transaction. Confirm details: http://password-reset.info",1
-"From: support@bank-alert.com
+Password reset required. Click the link: http://prize-claim.org",1
+"From: security@account-verify.net
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Password reset required. Click the link: http://secure-bank-login.com",1
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Report
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Invoice attached for services rendered last month.",0
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Security Alert
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Congratulations! You've won a prize. Claim it now: http://password-reset.info",1
+"From: noreply@prize-claim.biz
 To: user@example.com
 Subject: Password Reset
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
+Verify your email address: http://password-reset.info",1
+"From: security@account-verify.net
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your package is delayed. Update shipping info: http://password-reset.info",1
+"From: hr@company.com
+To: user@example.com
+Subject: Meeting Reminder
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Quarterly report attached for your review.",0
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Security Alert
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Password reset required. Click the link: http://password-reset.info",1
+"From: billing@services.net
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Quarterly report attached for your review.",0
+"From: hr@company.com
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Weekly newsletter: Latest updates from our department.",0
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Account Verification Required
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
 You've been selected for a special offer. Act now: http://account-verify.net",1
-"From: admin@internal.biz
+"From: alert@secure-login.org
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Congratulations! You've won a prize. Claim it now: http://prize-claim.org",1
+"From: support@bank-alert.com
+To: user@example.com
+Subject: Suspicious Activity
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Password reset required. Click the link: http://password-reset.info",1
+"From: hr@company.com
+To: user@example.com
+Subject: Report
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Quarterly report attached for your review.",0
+"From: alert@secure-login.org
+To: user@example.com
+Subject: Urgent Action Needed
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+You've been selected for a special offer. Act now: http://password-reset.info",1
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Invoice
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+New employee onboarding session next Tuesday.",0
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Report
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Meeting reminder: Team standup at 10 AM tomorrow.",0
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Birthday
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Meeting reminder: Team standup at 10 AM tomorrow.",0
+"From: support@bank-alert.com
+To: user@example.com
+Subject: Security Alert
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Congratulations! You've won a prize. Claim it now: http://password-reset.info",1
+"From: alert@secure-login.org
+To: user@example.com
+Subject: Security Alert
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your subscription is expiring. Renew now: http://account-verify.net",1
+"From: billing@services.net
+To: user@example.com
+Subject: Report
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Invoice attached for services rendered last month.",0
+"From: newsletter@updates.com
 To: user@example.com
 Subject: Meeting Reminder
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
 Happy birthday! Hope you have a great day.",0
-"From: noreply@prize-claim.biz
+"From: security@account-verify.net
 To: user@example.com
 Subject: Urgent Action Needed
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Your subscription is expiring. Renew now: http://password-reset.info",1
-"From: support@bank-alert.com
+Bank Alert: Suspicious transaction. Confirm details: http://password-reset.info",1
+"From: alert@secure-login.org
 To: user@example.com
-Subject: Security Alert
+Subject: Password Reset
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Password reset required. Click the link: http://account-verify.net",1
+Security Alert: Unusual activity detected. Verify your account: http://shipping-update.biz",1
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Thank you for your recent purchase. Your order has shipped.",0
+"From: team@project.org
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Happy birthday! Hope you have a great day.",0
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Account Verification Required
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your subscription is expiring. Renew now: http://account-verify.net",1
+"From: team@project.org
+To: user@example.com
+Subject: Report
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Thank you for your recent purchase. Your order has shipped.",0
+"From: noreply@prize-claim.biz
+To: user@example.com
+Subject: Suspicious Activity
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your package is delayed. Update shipping info: http://prize-claim.org",1
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Birthday
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Weekly newsletter: Latest updates from our department.",0
+"From: noreply@prize-claim.biz
+To: user@example.com
+Subject: Password Reset
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+You've been selected for a special offer. Act now: http://prize-claim.org",1
+"From: support@bank-alert.com
+To: user@example.com
+Subject: Password Reset
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Your subscription is expiring. Renew now: http://prize-claim.org",1
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Invoice
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Project update: The deadline has been extended to next Friday.",0
+"From: security@account-verify.net
+To: user@example.com
+Subject: Suspicious Activity
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Security Alert: Unusual activity detected. Verify your account: http://secure-bank-login.com",1
+"From: newsletter@updates.com
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Happy birthday! Hope you have a great day.",0
+"From: support@bank-alert.com
+To: user@example.com
+Subject: Account Verification Required
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Urgent: Your account has been compromised. Click here to reset your password: http://password-reset.info",1
+"From: alert@secure-login.org
+To: user@example.com
+Subject: Suspicious Activity
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+You've been selected for a special offer. Act now: http://password-reset.info",1
+"From: admin@internal.biz
+To: user@example.com
+Subject: Update
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Invoice attached for services rendered last month.",0
 "From: admin@password-reset.info
 To: user@example.com
 Subject: Security Alert
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-You've been selected for a special offer. Act now: http://password-reset.info",1
-"From: team@project.org
+Congratulations! You've won a prize. Claim it now: http://secure-bank-login.com",1
+"From: noreply@prize-claim.biz
 To: user@example.com
-Subject: Invoice
+Subject: Suspicious Activity
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Quarterly report attached for your review.",0
-"From: security@account-verify.net
+Congratulations! You've won a prize. Claim it now: http://secure-bank-login.com",1
+"From: admin@password-reset.info
+To: user@example.com
+Subject: Security Alert
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Urgent: Your account has been compromised. Click here to reset your password: http://shipping-update.biz",1
+"From: admin@password-reset.info
 To: user@example.com
 Subject: Account Verification Required
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Your subscription is expiring. Renew now: http://secure-bank-login.com",1
-"From: billing@services.net
+Urgent: Your account has been compromised. Click here to reset your password: http://password-reset.info",1
+"From: team@project.org
 To: user@example.com
 Subject: Update
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Project update: The deadline has been extended to next Friday.",0
-"From: hr@company.com
+Meeting reminder: Team standup at 10 AM tomorrow.",0
+"From: billing@services.net
+To: user@example.com
+Subject: Meeting Reminder
+Date: Mon, 13 Sep 2025 09:33:00 -0700
+
+Meeting reminder: Team standup at 10 AM tomorrow.",0
+"From: team@project.org
 To: user@example.com
 Subject: Update
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
 New employee onboarding session next Tuesday.",0
-"From: hr@company.com
+"From: alert@secure-login.org
 To: user@example.com
-Subject: Birthday
+Subject: Suspicious Activity
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Happy birthday! Hope you have a great day.",0
-"From: security@account-verify.net
+Urgent: Your account has been compromised. Click here to reset your password: http://prize-claim.org",1
+"From: alert@secure-login.org
 To: user@example.com
-Subject: Security Alert
+Subject: Password Reset
 Date: Mon, 13 Sep 2025 09:33:00 -0700
 
-Password reset required. Click the link: http://shipping-update.biz",1
-"From: admin@password-reset.info
-To: user@example.com
-Subject: Security Alert
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Password reset required. Click the link: http://shipping-update.biz",1
-"From: admin@password-reset.info
-To: user@example.com
-Subject: Account Verification Required
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Important: Update your payment information: http://password-reset.info",1
-"From: billing@services.net
-To: user@example.com
-Subject: Invoice
-Date: Mon, 13 Sep 2025 09:33:00 -0700
-
-Happy birthday! Hope you have a great day.",0
+Urgent: Your account has been compromised. Click here to reset your password: http://account-verify.net",1
