@@ -1,0 +1,14 @@
+Flask
+pandas
+scikit-learn
+numpy
+nltk
+matplotlib==3.9.0
+seaborn
+joblib
+wordcloud
+requests
+Flask-Cors==4.0.1
+skl2onnx==1.16.0
+onnx==1.16.0
+beautifulsoup4

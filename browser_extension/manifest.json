@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "PhishShield",
+  "version": "1.0.0",
+  "description": "PhishShield: Your AI guardian against phishing attacks. Analyzes emails for threats.",
+  "permissions": ["activeTab", "tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Analyze with PhishShield"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
