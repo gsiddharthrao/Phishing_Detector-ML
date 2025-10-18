@@ -2,9 +2,9 @@
 
 This project is an advanced phishing email detection system built with machine learning, featuring a user-friendly web interface, multiple model comparison, hyperparameter tuning, and deployment-ready setup. It uses state-of-the-art NLP preprocessing techniques and ensemble methods for robust classification. Perfect for hackathons and real-world applications!
 
-**Author: Krish Gupta** | **Hackathon-Ready Version**
 
----
+
+
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
@@ -199,61 +199,6 @@ For production, consider:
 
 ---
 
-## **Screenshots**
 
-### Web Interface
-![Web Interface](screenshots/web_interface.png)
 
-### Model Metrics
-![Metrics Dashboard](screenshots/metrics_dashboard.png)
 
-### Confusion Matrix
-![Confusion Matrix](models/confusion_matrix.png)
-
-### ROC Curve
-![ROC Curve](models/roc_curve.png)
-
-### Word Clouds
-![Phishing Word Cloud](models/wordcloud_phishing.png)
-![Non-Phishing Word Cloud](models/wordcloud_non_phishing.png)
-
----
-
-## **Contributing**
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### **Ideas for Enhancement**
-- Add deep learning models (BERT, LSTM)
-- Real-time email monitoring
-- User authentication
-- Email attachment analysis
-- Multi-language support
-- API rate limiting and caching
-- Integration with email clients
-- Automated model retraining
-- A/B testing for model versions
-
----
-
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Built for Hackathons | Ready for Production | Open Source**
-```
-
----
-
-### Explanation:
-1. **Markdown Formatting**: The code includes headers, lists, and code blocks (` ```bash ` and ` ```python `) for clarity.
-2. **Troubleshooting Virtual Environment**: Added steps to resolve issues with locked environments.
-3. **Ready for GitHub**: The content is now GitHub-ready and can be directly used as `README.md`.
-
-Let me know if you need further modifications!
-"# Phishing_Detector-ML" 
